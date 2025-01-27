@@ -2,7 +2,7 @@
 
 [Langbot项目](https://github.com/RockChinQ/LangBot)的联网插件，基于GPT的Function Calling功能实现的类似ChatGPT的`WebPilot`插件的功能。
 
-!使用 Webwlkr 插件
+使用 Webwlkr 插件
 
 > 请先阅读[此Wiki](https://docs.langbot.app/plugin/plugin-intro.html)
 
